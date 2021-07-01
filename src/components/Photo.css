@@ -15,4 +15,9 @@
 
 .Photo__name {
   font-size: 1.1rem;
+  margin-bottom: .5rem;
+}
+
+.Photo__position {
+  color: #ccc;
 }

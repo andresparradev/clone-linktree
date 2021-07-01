@@ -5,12 +5,12 @@ import Links from './components/Links.js'
 
 import data from './data/user.json'
 
-function App () {
+function App() {
   const user = data.user
 
   return (
     <div className="App">
-      <Photo userPhoto={user.photo} userName={user.name} />
+      <Photo user={user} />
       <Links links={user.links} />
       <SocialMedias social={user.socialMedias} />
     </div>

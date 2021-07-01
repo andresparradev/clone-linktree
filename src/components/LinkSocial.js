@@ -1,6 +1,6 @@
 import './LinkSocial.css'
 
-function LinkSocial ({ link }) {
+function LinkSocial({ link }) {
   return (
     <li className="LinkSocial">
       <a href={link.url} target="_blank" rel="noreferrer">

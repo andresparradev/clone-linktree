@@ -1,10 +1,11 @@
 import './Photo.css'
 
-function Photo ({ userPhoto, userName }) {
+function Photo({ user }) {
   return (
     <article className="Photo">
-      <img className="Photo__img" src={userPhoto} alt={userName} />
-      <h1 className="Photo__name">{userName}</h1>
+      <img className="Photo__img" src={user.photo} alt={user.name} />
+      <h1 className="Photo__name">{user.name}</h1>
+      <p className="Photo__position">{user.position}</p>
     </article>
   )
 }
