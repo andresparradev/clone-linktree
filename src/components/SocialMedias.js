@@ -1,17 +1,12 @@
 import './SocialMedias.css'
+import LinkSocial from './LinkSocial.js'
 
 function SocialMedias ({ social }) {
   return (
     <article className="SocialMedias">
       <ul className="SocialMedias__menu">
         {
-          social.map((el, index) => {
-            return <li key={index} className="SocialMedias__item">
-              <a href={el.url} target="_blank" rel="noreferrer">
-                <img src={el.icon} alt={el.name} className="SocialMedias__icon" />
-              </a>
-            </li>
-          })
+          social.map((link, i) => <LinkSocial key={i} link={link} />)
         }
       </ul>
     </article>
