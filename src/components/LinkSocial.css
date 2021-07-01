@@ -1,6 +1,9 @@
 .LinkSocial__icon {
-  margin: 0 .5rem;
-  display: block;
-  width: 35px;
-  height: 35px;
+  margin: 0 .7rem;
+  color: #fff;
+  transition: all 300ms;
+}
+
+.LinkSocial__icon:hover {
+  color: #ccc;
 }

@@ -1,7 +1,6 @@
 .Link {
-  background-color: #fff;
+  background-color: #195a67;
   margin-bottom: 1rem;
-  padding: .5rem;
   height: 60px;
 
   display: flex;
@@ -10,19 +9,25 @@
 
   position: relative;
 
-  border: 2px solid #fff;
-  color: #000;
+  border: 2px solid #195a67;
+  color: #fff;
 
   transition: all 300ms;
 }
 
 .Link:hover {
   color: #fff;
-  background-color: #333;
+  background-color: transparent;
+  box-shadow: 0 5px 5px 0 rgba(25, 90, 103, .6);
 }
 
 .Link a {
+  padding: .5rem;
+  width: 100%;
+  height: 100%;
+
   display: flex;
+  justify-content: center;
   align-items: center;
   text-decoration: none;
   color: inherit;
@@ -43,4 +48,3 @@
 .Link__name {
   font-weight: bold;
 }
-

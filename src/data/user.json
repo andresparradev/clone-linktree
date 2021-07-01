@@ -6,23 +6,19 @@
     "socialMedias": [
       {
         "name": "Facebook",
-        "url": "https://www.facebook.com/soyandresgarzon",
-        "icon": "https://img.icons8.com/fluent/48/000000/facebook-new.png"
+        "url": "https://www.facebook.com/soyandresgarzon"
       },
       {
         "name": "Instagram",
-        "url": "https://instagram.com/soyandresgarzon",
-        "icon": "https://img.icons8.com/fluent/50/000000/instagram-new.png"
+        "url": "https://instagram.com/soyandresgarzon"
       },
       {
         "name": "Twitter",
-        "url": "https://twitter.com/SoyAndresGarzon",
-        "icon": "https://img.icons8.com/color/48/000000/twitter--v1.png"
+        "url": "https://twitter.com/SoyAndresGarzon"
       },
       {
         "name": "Github",
-        "url": "https://github.com/AndresParraGO",
-        "icon": "https://img.icons8.com/ios-glyphs/30/000000/github.png"
+        "url": "https://github.com/AndresParraGO"
       }
     ],
     "links": [
