@@ -1,6 +1,6 @@
 {
   "user": {
-    "name": "Andres Parra",
+    "name": "Andres Parra Garzon",
     "photo": "https://avatars.githubusercontent.com/u/58154754?v=4",
     "position": "Frontend Developer",
     "socialMedias": [
@@ -19,12 +19,17 @@
       {
         "name": "Github",
         "url": "https://github.com/AndresParraGO"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/soyandresgarzon"
       }
     ],
     "links": [
       {
         "name": "Portfolio",
-        "url": "https://soyandresgarzon.vercel.app"
+        "url": "https://soyandresgarzon.vercel.app",
+        "icon": "https://image.flaticon.com/icons/png/512/3314/3314826.png"
       },
       {
         "name": "NPM",
@@ -34,12 +39,12 @@
       {
         "name": "Codepen",
         "url": "https://codepen.io/soyandresgarzon",
-        "icon": "https://img.icons8.com/ios-filled/50/000000/codepen.png"
+        "icon": "https://image.flaticon.com/icons/png/512/2111/2111262.png"
       },
       {
         "name": "Youtube",
         "url": "https://www.youtube.com/channel/UCS2Y1rntKrL-l_0zEMCPL4w",
-        "icon": "https://img.icons8.com/color/48/000000/youtube--v1.png"
+        "icon": "https://image.flaticon.com/icons/png/512/124/124015.png"
       },
       {
         "name": "Hackerrank",
