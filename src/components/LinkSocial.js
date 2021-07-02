@@ -1,8 +1,7 @@
-import './LinkSocial.css'
+import '../styles/LinkSocial.css'
 import IconSocialMedia from './IconSocialMedia'
 
 function LinkSocial({ link }) {
-  console.log(link.name.toLowerCase())
   return (
     <li className="LinkSocial">
       <a href={link.url} target="_blank" rel="noreferrer">

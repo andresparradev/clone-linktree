@@ -1,4 +1,4 @@
-import './Links.css'
+import '../styles/Links.css'
 import Link from './Link.js'
 
 function Links({ links }) {

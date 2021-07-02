@@ -1,4 +1,4 @@
-import './Photo.css'
+import '../styles/Photo.css'
 
 function Photo({ user }) {
   return (

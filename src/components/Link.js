@@ -1,4 +1,4 @@
-import './Link.css'
+import '../styles/Link.css'
 
 function Link({ link }) {
   return (

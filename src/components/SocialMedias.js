@@ -1,4 +1,4 @@
-import './SocialMedias.css'
+import '../styles/SocialMedias.css'
 import LinkSocial from './LinkSocial.js'
 
 function SocialMedias({ social }) {
